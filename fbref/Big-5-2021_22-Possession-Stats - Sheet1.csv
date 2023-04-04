@@ -1,5 +1,4 @@
-,Touc,Touc,Touc,Touc,Touc,Touc,Touc,Take,Take,Take,Take,Take,Carr,Carr,Carr,Carr,Carr,Carr,Carr,Carr,Rece,Rece
-Rk,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+Rk,Touches-Touc,Def Pen-Touc,Def 3rd-Touc,Mid 3rd-Touc,Att 3rd-Touc,Att Pen-Touc,Live-Touc,Att-Take,Succ-Take,Succ%-Take,Tkld-Take,Tkld%-Take,Carries-Carr,TotDist-Carr,PrgDist-Carr,PrgC-Carr,1/3-Carr,CPA-Carr,Mis-Carr,Dis-Carr,Rec-Rece,PrgR-Rece
 1,1841,160,721,703,440,23,1841,68,34,50,34,50,953,6454,3377,78,47,12,38,23,1030,85
 2,1919,212,1017,843,84,24,1919,18,14,77.8,4,22.2,1194,6451,3558,23,19,0,28,13,1202,14
 3,1948,39,557,1146,261,16,1948,41,26,63.4,15,36.6,1386,6570,2687,24,23,3,42,30,1481,47
